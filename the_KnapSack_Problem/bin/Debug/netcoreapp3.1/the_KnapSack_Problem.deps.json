@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "the_KnapSack_Problem/1.0.0": {
+        "runtime": {
+          "the_KnapSack_Problem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "the_KnapSack_Problem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
